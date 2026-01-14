@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Password Strength Analyzer",
+  "description": "A comprehensive cybersecurity tool that evaluates password complexity using Regex and entropy calculation for security recommendations.",
+  "requestFramePermissions": []
+}
